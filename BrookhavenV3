@@ -50,3 +50,5 @@ local Paragraph = Tab:CreateParagraph({Title = "In beta info", Content = "The sc
 
 
 local Tab = Window:CreateTab("Hubs")
+
+local Tab = Window:CreateTab("Car")
