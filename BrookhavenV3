@@ -58,3 +58,7 @@ local Tab = Window:CreateTab("Car")
 local Tab = Window:CreateTab("Home")
 
 local Tab = Window:CreateTab("Avatar")
+
+local Tab = Window:CreateTab("Abuse")
+
+local Tab = Window:CreateTab("Fun")
